@@ -29,3 +29,5 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('bases app is running!');
   });
 });
+
+//este archivo funciona solo para pruebas, se puede eliminar
